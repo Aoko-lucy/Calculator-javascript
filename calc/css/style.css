@@ -1,0 +1,26 @@
+text{
+	text-align: right;
+}
+body{
+	background-color: transparent;
+	color: black;
+	background-image: url(../img/mb2.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    margin: 15px;
+
+
+}
+
+h1{
+	font-family: Lemonada;
+	color: red;
+	font-size: 26px;
+	text-align: left;
+	margin: 30px;
+
+
+}
+form{
+	padding-top: 250px;
+}
